@@ -49,6 +49,7 @@ img {
   display: flex;
 }
 .contact{
+    margin-left: 10%;
     min-height: 100vh;
     background-color: #e8f0;
     padding: 50px;
