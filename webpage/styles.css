@@ -34,7 +34,7 @@ img {
     padding-left: 10%;
 }
 #menu ul {
-  background-color: #e9e9e9; /* AliceBlue */
+  background-color: #7ecbff; /* AliceBlue */
   list-style: none;
   margin: auto;
   width: 80%;
@@ -43,7 +43,7 @@ img {
 }
 
 #menu li {
-  background-color: #e9e9e9;
+  background-color: #7ecbff;
   margin: 20px;
   padding: 20px;
   display: flex;
